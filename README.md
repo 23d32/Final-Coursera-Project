@@ -1,4 +1,4 @@
-# Final-Coursera-Project
+# Description
 
 In the Yonkers city of New York, there is a lack of data as to which region populates the
 most restaurants. This can hurt food enthusiasts who want to settle there as well as those who
